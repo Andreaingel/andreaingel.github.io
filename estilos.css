@@ -1,0 +1,16 @@
+#pincipal {
+    border: solid 1px #cccccc;
+    padding: 5px;
+    margin: 0auto;
+    width: 85%;
+    background: #82baf9;
+}
+
+body {
+    background-color: rgb(165, 114, 148);
+    color: rgb(14, 13, 13);
+}
+
+#demo {
+    color: white
+}
